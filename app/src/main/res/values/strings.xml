@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CleanAppTest</string>
+    <string name="save_data">SAVE DATA</string>
+
+    <string name="getdata">GET DATA</string>
+
+</resources>
